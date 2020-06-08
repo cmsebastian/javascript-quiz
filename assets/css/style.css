@@ -1,0 +1,22 @@
+.quizContainer {
+    text-align: center;
+    
+    border-radius: 6px;
+    width: 75%;
+    margin: auto;
+    padding-top: 20px;
+    position: relative;
+}
+
+h5 { color: #FF0000;
+    padding: 15px;
+
+}
+body {
+    background-color: #F0DB4F;
+}
+ img {
+    border-style: solid; 
+    border-width: 5px;
+     border-color:#323330;
+ }
